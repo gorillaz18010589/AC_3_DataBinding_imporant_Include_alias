@@ -1,5 +1,6 @@
 package com.example.ac_3_databinding_include;
 //0.寫好Student類別
+//參考網址:https://blog.csdn.net/kong_gu_you_lan/article/details/75628465
 /**
  *
  //1.引用類別包
